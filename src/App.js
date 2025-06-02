@@ -1,9 +1,7 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom'; // ⬅️ Use HashRouter
 import FormPage from './FormPage';
 import SuccessPage from './SuccessPage';
 import './App.css';
-
-console.log('App is rendering');
 
 function App() {
   return (
