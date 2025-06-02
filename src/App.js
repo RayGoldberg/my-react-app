@@ -3,6 +3,8 @@ import FormPage from './FormPage';
 import SuccessPage from './SuccessPage';
 import './App.css';
 
+console.log('App is rendering');
+
 function App() {
   return (
     <Router>
