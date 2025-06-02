@@ -42,5 +42,10 @@
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
+  },
+  "dependencies": {
+  "react": "...",
+  "react-dom": "...",
+  "react-scripts": "^5.0.1"
   }
 }

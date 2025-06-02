@@ -1,4 +1,4 @@
-import { HashRouter as Router, Routes, Route } from 'react-router-dom'; // ⬅️ Use HashRouter
+import { HashRouter as Router, Routes, Route } from 'react-router-dom'; 
 import FormPage from './FormPage';
 import SuccessPage from './SuccessPage';
 import './App.css';
